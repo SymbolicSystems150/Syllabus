@@ -7,6 +7,7 @@ Syllabus
 ####Week 3: Mining, Ledgers, and Blockchains
 
 ####Week 4: Bitcoin Limitations and Altcoins
+Guest: Adam Draper
 
 ####Week 5: Financial and Regulatory Systems
 
