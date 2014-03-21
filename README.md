@@ -16,9 +16,9 @@ Guest: Adam Draper
 ####Week 7: Bitcoin in practice p2
 Guest: Max Levchin
 
-####Week 8: Decentralized Trust p1
+####Week 8: Decentralized Trust and AppCoins p1
 
-####Week 9: Decentralized Trust p2
+####Week 9: Decentralized Trust and AppCoins p2
 
 ####Week 10: Student presentations
 
