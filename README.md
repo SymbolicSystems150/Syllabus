@@ -13,6 +13,7 @@ Syllabus
 ####Week 6: Bitcoin in practice p1
 
 ####Week 7: Bitcoin in practice p2
+Guest: Max Levchin
 
 ####Week 8: Decentralized Trust p1
 
