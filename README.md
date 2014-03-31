@@ -2,7 +2,7 @@ Syllabus
 =======
 ####Week 1: Intro to Cryptocurrencies
 
-####Week 2: Asymmetric Encryption and Network Protocols
+####Week 2: Byzantine Generals Problem and Data Communication and Storage
 
 ####Week 3: Mining, Ledgers, and Blockchains
 
