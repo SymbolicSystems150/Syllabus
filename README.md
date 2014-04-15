@@ -5,6 +5,7 @@ Syllabus
 ####Week 2, April 7: Byzantine Generals Problem and Data Communication and Storage
 
 ####Week 3, April 14: Mining, Ledgers, and Blockchains
+Class this week was cancelled. In replacement there will be Office Hours at the Kingscote Gardens benches Friday, 1:30-3pm.
 
 ####Week 4, April 21: Bitcoin Limitations and Altcoins
 Guest: Adam Draper
