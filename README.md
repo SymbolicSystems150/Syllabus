@@ -9,6 +9,7 @@ Class this week was cancelled. In replacement there will be Office Hours at the 
 
 ####Week 4, April 21: Bitcoin Limitations and Altcoins
 Guest: Adam Draper
+There will be Office Hours this week: Wednesday (4/23), 3:30-4:30pm at the benches outside Kingscote Gardens.
 
 ####Week 5, April 28: Smart Property and Smart Contracts
 Guest: Tim Swanson
