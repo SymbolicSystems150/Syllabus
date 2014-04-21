@@ -14,15 +14,15 @@ Guest: Adam Draper
 Guest: Tim Swanson
 
 ####Week 6, May 5: Bitcoin in practice p1
-Guest: Ron Hose
+Guest: Ron Hose, Max Levchin
 
 ####Week 7, May 12: Bitcoin in practice p2
+Guest Ripple
 
 ####Week 8, May 19: Decentralized Trust and AppCoins p1
 
 ####Week 9, May 26: Decentralized Trust and AppCoins p2
 
-Guest: Max Levchin
 
 ####Week 10, June 2: Student presentations
 
