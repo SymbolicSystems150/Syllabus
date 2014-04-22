@@ -22,6 +22,7 @@ Guest: Ron Hose, Max Levchin
 Guest Ripple
 
 ####Week 8, May 19: Decentralized Trust and AppCoins p1
+External Reviews
 
 ####Week 9, May 26: Decentralized Trust and AppCoins p2
 
