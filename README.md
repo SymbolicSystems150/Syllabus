@@ -13,18 +13,20 @@ Class this week was cancelled. In replacement there will be Office Hours at the 
 There will be Office Hours this week: Wednesday (4/23), 3:30-4:30pm at the benches outside Kingscote Gardens.
 
 ####Week 5, April 28: Sidechains and Empirical Bitcoin Security
-Guest: Tim Swanson
+*Guest: Tim Swanson*
 
 ####Week 6, May 5: Bitcoin in practice p1
-Guest: Max Levchin and Counterparty
+*Guests: Max Levchin and Counterparty*
+
+There will be Office Hours this week: Wednesday (4/23), 1:30-3:00pm at the benches outside Kingscote Gardens.
 
 ####Week 7, May 12: Bitcoin in practice p2
-Guest Ripple
+*Guest Ripple*
 
 ####Week 8, May 19: Decentralized Trust and AppCoins p1
 External Reviews
 
-####Week 9, May 26: Decentralized Trust and AppCoins p2
+####Week 9, May 26: Memorial Day, no class
 
 
 ####Week 10, June 2: Student presentations
