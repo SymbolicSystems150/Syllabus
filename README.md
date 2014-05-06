@@ -18,7 +18,7 @@ There will be Office Hours this week: Wednesday (4/23), 3:30-4:30pm at the bench
 ####Week 6, May 5: Bitcoin in practice p1
 *Guests: Max Levchin and Counterparty*
 
-There will be Office Hours this week: Wednesday (4/23), 1:30-3:00pm at the benches outside Kingscote Gardens.
+There will be Office Hours this week: Wednesday (4/23), 2:30-4:00pm at the benches outside Kingscote Gardens.
 
 ####Week 7, May 12: Bitcoin in practice p2
 *Guest Ripple*
