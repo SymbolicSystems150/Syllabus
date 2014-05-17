@@ -23,7 +23,8 @@ Tim Swanson wrote a recap [here](http://www.ofnumbers.com/2014/05/06/max-levchin
 UPDATED: There will be Office Hours this week: Thursday (5/8), 4-6:00pm at the benches outside Kingscote Gardens.
 
 ####Week 7, May 12: Bitcoin in practice p2
-*Guest Ripple*
+*Guest Ripple and CrossCoin Ventures*
+Slides from presentation are [here](http://www.slideshare.net/ripplelabs/ripple-labs-values-purpose-strategy).
 
 ####Week 8, May 19: Decentralized Trust and AppCoins p1
 External Reviews
