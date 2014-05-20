@@ -30,6 +30,8 @@ Slides from presentation are [here](http://www.slideshare.net/ripplelabs/ripple-
 ####Week 8, May 19: Decentralized Trust and AppCoins p1
 External Reviews
 
+There will be Office Hours this week: Friday (5/23), 3:30-5:00pm at the benches outside Kingscote Gardens.
+
 ####Week 9, May 26: Memorial Day, no class
 
 
